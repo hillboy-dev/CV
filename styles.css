@@ -1,0 +1,23 @@
+  body {
+    background-color: #e5cfe5;
+  }
+
+  hr {
+    border-style:none;
+    border-top-style:dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+ h1 {color: #663399;
+   font-family: monospace,verdana,sans-serif;
+}
+ h3 {color:#5c2a9d;
+   font-family: cursive,fantasy,sans-serif;
+}
+p {color:#654062;
+}
+ul {color:#654062;
+}
+table{color:#654062;
+}
